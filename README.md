@@ -9,7 +9,8 @@ Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado
 
 
 **JavaScript**
-![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png)
+![JavaScript](https://user-images.githubusercontent.com/112130785/216398927-fda0f2a6-c545-4946-a503-9c77778afaca.png)
+
 
 CSS
 HTML
