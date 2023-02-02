@@ -8,7 +8,7 @@ Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado
 Tecnologias
 
 JavaScript
-https://www.flaticon.es/icono-gratis/js_5968292?term=js&page=1&position=1&origin=search&related_id=5968292
+![image](https://user-images.githubusercontent.com/112130785/216389625-793dd8b4-cfe7-4156-bbd8-584ebcc2336b.png)
 CSS
 HTML
 React
