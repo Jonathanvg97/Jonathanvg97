@@ -8,12 +8,12 @@ Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado
 #Tecnologias que manejo
 
 
-**JavaScript**
+**JavaScript, CSS
+HTML**
 ![JavaScript](https://user-images.githubusercontent.com/112130785/216398927-fda0f2a6-c545-4946-a503-9c77778afaca.png)
 
 
-CSS
-HTML
+
 React
 Node.js
 Mongoose
