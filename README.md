@@ -8,7 +8,7 @@ Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado
 Tecnologias
 
 JavaScript
-![image](https://user-images.githubusercontent.com/112130785/216389625-793dd8b4-cfe7-4156-bbd8-584ebcc2336b.png)
+![image](https://user-images.githubusercontent.com/112130785/216389798-47adfb87-2ad1-4d6f-9a55-220334ca5b13.png)
 CSS
 HTML
 React
