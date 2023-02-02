@@ -1,19 +1,23 @@
 
 
 
-Hola Bienvenido 👋
-Este es mi repositorio, donde guardo la mayoria de mis proyectos, y puedes ver como los realice, ademas de contribuir a los mismos.
+Hola Bienvenido Soy Jonathan Vanegas 👋
+Soy Programador Full stack con conocimientos básicos; Busco seguir aprendiendo cada vez mas acerca de la tecnología por ello me motiva formar parte de una empresa que me brinde la oportunidad de seguir capacitándome día a día para ser un mejor profesional en el campo tecnológico, desarrollando , creando y fortaleciendo nuevas labores que me motiven .
+Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado.
 
-Tecnologias que:
-Mejor manejo y estoy actualizado
-icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia
-He trabajado y conozco, pero estoy desactualizado
-icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia icono tecnologia
-Sobre mi
-Llevo programando desde los 13 años de forma autonoma, en proyectos propios como tambien de clientes. Me gusta aprender y mejorar cada dia mis habilidades para facilitar mi trabajo, entender como funcionan realmente las cosas por detras y de esta manera tener un conocimineto profundo de las tecnologias que ultilizo.
+Tecnologias
 
-Tengo conocimiento en desarrollo nativo Android y desarollo de videojuegos con Unity.
+JavaScript
+https://www.flaticon.es/icono-gratis/js_5968292?term=js&page=1&position=1&origin=search&related_id=5968292
+CSS
+HTML
+React
+Node.js
+Mongoose
+MongoDB
 
-🌱 Estoy aprendiendo Clean Architecture, TypeScript, RxJS
+
+
+
 📫 Linkedin
 ⚡ Portafolio
