@@ -18,6 +18,10 @@ MongoDB
 
 
 
-([
+Visita mi linkedin([
 :pencil:**Linkedin**](https://www.linkedin.com/in/jonathanvanegasdeveloper/))
-⚡ Portafolio
+
+
+Visita mi Portafolio([
+:briefcase:**Portafolio**](https://briefcase-jv.netlify.app/))
+
