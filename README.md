@@ -18,5 +18,6 @@ MongoDB
 
 
 
-(#[Linkedin](https://www.linkedin.com/in/jonathanvanegasdeveloper/))
+(#[:memo:
+:pencil:**Linkedin**](https://www.linkedin.com/in/jonathanvanegasdeveloper/))
 ⚡ Portafolio
