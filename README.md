@@ -11,7 +11,7 @@ JavaScript
 
 CSS
 HTML
-[![image](https://user-images.githubusercontent.com/112130785/216390003-c396d713-53b2-41da-82ff-f6090f4b054a.png)](https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg)
+[![image](https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg)]
 React
 Node.js
 Mongoose
