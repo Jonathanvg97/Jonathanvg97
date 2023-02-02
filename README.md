@@ -18,5 +18,5 @@ MongoDB
 
 
 
-📫 Linkedin(#[mi-titulo-a-anclar](https://www.linkedin.com/in/jonathanvanegasdeveloper/))
+📫 Linkedin(#(https://www.linkedin.com/in/jonathanvanegasdeveloper/))
 ⚡ Portafolio
