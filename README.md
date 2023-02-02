@@ -8,10 +8,8 @@ Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado
 Tecnologias
 
 JavaScript
-
 CSS
 HTML
-[![image](https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg)]
 React
 Node.js
 Mongoose
@@ -20,5 +18,5 @@ MongoDB
 
 
 
-📫 Linkedin
+📫 Linkedin(#[mi-titulo-a-anclar](https://www.linkedin.com/in/jonathanvanegasdeveloper/))
 ⚡ Portafolio
