@@ -9,7 +9,7 @@ Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado
 
 
 
-![JavaScript ]([url completa de la image](https://www.shutterstock.com/image-vector/javascript-web-technology-shield-site-260nw-1315562720.jpg))
+![JavaScript ](https://www.shutterstock.com/image-vector/javascript-web-technology-shield-site-260nw-1315562720.jpg)
 
 CSS
 HTML
