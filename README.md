@@ -5,22 +5,6 @@ Hola Bienvenido Soy **Jonathan Vanegas** 👋
 Soy Programador Full stack con conocimientos básicos; Busco seguir aprendiendo cada vez mas acerca de la tecnología por ello me motiva formar parte de una empresa que me brinde la oportunidad de seguir capacitándome día a día para ser un mejor profesional en el campo tecnológico, desarrollando , creando y fortaleciendo nuevas labores que me motiven .
 Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado.
 
-#Tecnologias que manejo
-
-
-**JavaScript, CSS
-HTML**
-![JavaScript](https://user-images.githubusercontent.com/112130785/216398927-fda0f2a6-c545-4946-a503-9c77778afaca.png)
-
-
-
-React
-Node.js
-Mongoose
-MongoDB
-
-
-
 
 **Visita mi linkedin**([
 :pencil:**Linkedin**](https://www.linkedin.com/in/jonathanvanegasdeveloper/))
@@ -30,9 +14,10 @@ MongoDB
 :briefcase:**Portafolio**](https://briefcase-jv.netlify.app/))
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Apasionado por el desarrollo frontend</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathanvanegasdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathanvanegasdeveloper/" height="30" width="40" /></a>
 </p>
