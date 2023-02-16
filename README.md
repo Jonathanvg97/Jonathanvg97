@@ -2,7 +2,8 @@
 
 
 Hola Bienvenido Soy **Jonathan Vanegas** 👋
-Soy Programador Full stack con conocimientos básicos; Busco seguir aprendiendo cada vez mas acerca de la tecnología por ello me motiva formar parte de una empresa que me brinde la oportunidad de seguir capacitándome día a día para ser un mejor profesional en el campo tecnológico, desarrollando , creando y fortaleciendo nuevas labores que me motiven .
+Soy un programador web junior Fullstack, con conocimientos en el stack MERN. Me interesa retarme diariamente para aplicar mis conocimientos sobre tecnología, por esta razón quisiera vincularme a una empresa que me permita seguir capacitándome mediante el desarrollo de proyectos prácticos que satisfagan las necesidades de las personas y me reten a crear un mejor código día a día.
+También me considero una persona eficaz, con facilidades para trabajar en equipo y entender las necesidades del cliente pues he tenido el rol de product owner.
 Este es mi repositorio, aqui podras encontrar algunos proyectos que he realizado.
 
 
